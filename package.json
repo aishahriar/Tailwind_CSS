@@ -1,0 +1,24 @@
+{
+  "name": "tailwind_css",
+  "version": "1.0.0",
+  "description": "Education",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./src/tailwindcss -o ./output/tailwindcss -w" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishahriar/Tailwind_CSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishahriar/Tailwind_CSS/issues"
+  },
+  "homepage": "https://github.com/aishahriar/Tailwind_CSS#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
